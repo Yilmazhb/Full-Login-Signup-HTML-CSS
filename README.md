@@ -21,4 +21,5 @@ To view and test the pages, you only need a web browser. No additional software 
 ### Installation
 
 1. Clone the repository to your local machine:
+
 git clone [https://github.com/Yilmazhb/Full-Login-Signup-HTML-CSS]
